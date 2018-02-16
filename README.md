@@ -12,6 +12,15 @@ The web app enables users to add their pitches, from pick up lines to quotes for
 * A connected device
 * A browser
 
+###Specs
+
+* User is able to add a pitch
+* User can delete a pitch
+* User can upvote or downvote a pitch
+* User can comment on a pitch
+* User is able to view other users pitches
+  
+
 ## Technologies Used
 * Flask
 * Python
@@ -22,6 +31,6 @@ or visit my github page @RichardOgamba and report the issue
 To view page go to
 
 ### License
-*{MIT License
+*MIT License
 
-Copyright (c) [2017] [Richard Ogamba]
+Copyright (c) [2018] [Richard Ogamba]
